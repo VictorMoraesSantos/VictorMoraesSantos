@@ -1,6 +1,8 @@
-### Olá! Eu sou o Victor
+# Olá, me chamo Victor ! 
+## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Trabalhando com HTML, CSS e Javascript.
-- 🌱 Estudando .NET
-  
+## Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorMoraesSantos)](https://github.com/VictorMoraesSantos/github-readme-stats)
