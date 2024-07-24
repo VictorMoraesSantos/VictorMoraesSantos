@@ -1,5 +1,6 @@
 # Olá, me chamo Victor ! 
 ## Bem vindo ao meu perfil GitHub 👋
+<br />
 
 ### - Linguagens:
 
@@ -22,6 +23,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMoraesSantos&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMoraesSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+<br />
 <br />
 
 ## Contatos:
